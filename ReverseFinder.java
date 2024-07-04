@@ -1,4 +1,4 @@
-*note*:- Make sure FILE name MAIN CLASS name must be same if you RUN this program in you COMPILER.
+//*note*:- Make sure FILE name MAIN CLASS name must be same if you RUN this program in you COMPILER.
 
 import javax.swing.*;
 import java.awt.*;
