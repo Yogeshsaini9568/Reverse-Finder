@@ -77,5 +77,4 @@ public class ReverseFinder {
 		Frame z=new Frame();
 		z.setVisible(true);
 	}
-
 }
